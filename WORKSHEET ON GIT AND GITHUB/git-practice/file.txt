@@ -1,0 +1,7 @@
+Perform the following tasks in a local Git repository.  
+Task 1: Initialize a Repo and Track Changes 
+Section B: Hands-on Git Commands 
+1. Create a folder git-practice, initialize it with git 
+2. Create a txt file with any content. 
+3. Add and commit the file with a meaningful message. 
+4. Check the status, log, and log --oneline.
